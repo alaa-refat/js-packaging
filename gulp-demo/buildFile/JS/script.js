@@ -1,0 +1,1 @@
+console.log("hello world! ");class Person{constructor(s,e){this.fname=s,this.lname=e}get fullname(){return this.fname+"-"+this.lname}}console.log(new Person("sals","hussien"));
